@@ -5,3 +5,4 @@ y <- rnorm(100)
 
 # Important feature
 
+# An alternative way forward

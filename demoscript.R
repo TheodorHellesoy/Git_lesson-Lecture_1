@@ -1,8 +1,8 @@
 ## This is a test-script for lecture 1 in BAN400 ## 
 
-x <- rnorm(100)
-y <- rnorm(100)
+x <- rnorm(500)
+y <- rnorm(500)
 
 # Important feature
 
-# New feature
+# New feature - adding something here
